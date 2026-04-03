@@ -2,5 +2,8 @@
   "name": "redirect",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module"
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
